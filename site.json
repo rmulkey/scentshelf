@@ -1,0 +1,293 @@
+{
+  "slug": "scentshelf",
+  "projectName": "scentshelf",
+  "baseUrl": "https://rmulkey.github.io/scentshelf",
+  "brand": "ScentShelf",
+  "category": "Home Fragrance And Candle Warmer Accessories",
+  "eyebrow": "Home fragrance edit",
+  "title": "Best Candle Warmers, Diffusers, And Home Fragrance Accessories",
+  "description": "ScentShelf curates candle warmer lamps, wax warmers, reed diffusers, essential oil diffusers, trays, and fragrance accessories.",
+  "h1": "Home fragrance pieces that feel considered, not cluttered.",
+  "dek": "A composed edit for candle warmers, diffusers, trays, and accessories that make a shelf, nightstand, or entry table smell intentional.",
+  "guideSlug": "home-fragrance-accessories-guide",
+  "guideTitle": "Home Fragrance Accessories Guide",
+  "guideDescription": "Compare candle warmer lamps, wax warmers, reed diffusers, oil diffusers, trays, and scent accessories before buying.",
+  "queries": [
+    "candle warmer lamp",
+    "wax melt warmer",
+    "reed diffuser set",
+    "essential oil diffuser",
+    "home fragrance accessories"
+  ],
+  "palette": [
+    "#f6eef0",
+    "#20171a",
+    "#b56f82",
+    "#613746",
+    "#ead0d7"
+  ],
+  "icon": "M36 18c8 8 10 16 4 22 8 0 12 5 12 11 0 5-5 9-16 9s-16-4-16-9c0-6 4-10 12-11-4-6-2-14 4-22Z",
+  "longTailPages": [
+    {
+      "slug": "best-candle-warmer-lamp",
+      "title": "Best Candle Warmer Lamp",
+      "intent": "flame-free candle warming",
+      "angle": "warmer lamps to compare for shade style, timer settings, height, and where the cord will actually sit",
+      "productHints": [
+        "candle",
+        "warmer",
+        "lamp",
+        "timer"
+      ]
+    },
+    {
+      "slug": "best-wax-melt-warmer",
+      "title": "Best Wax Melt Warmer",
+      "intent": "wax melt fragrance setup",
+      "angle": "wax warmers to compare for dish size, counter footprint, cleanup, and everyday placement",
+      "productHints": [
+        "wax",
+        "melt",
+        "warmer",
+        "dish"
+      ]
+    },
+    {
+      "slug": "best-reed-diffuser-set",
+      "title": "Best Reed Diffuser Set",
+      "intent": "low-maintenance scent",
+      "angle": "reed diffuser sets for shelves, bathrooms, and entry tables where outlets and flame are not ideal",
+      "productHints": [
+        "reed",
+        "diffuser",
+        "set",
+        "sticks"
+      ]
+    },
+    {
+      "slug": "best-essential-oil-diffuser-for-bedroom",
+      "title": "Best Essential Oil Diffuser For Bedroom",
+      "intent": "bedroom diffuser setup",
+      "angle": "diffusers to compare for size, light settings, timer behavior, and nighttime placement",
+      "productHints": [
+        "essential",
+        "oil",
+        "diffuser",
+        "bedroom"
+      ]
+    },
+    {
+      "slug": "best-home-fragrance-gift",
+      "title": "Best Home Fragrance Gift",
+      "intent": "giftable scent accessories",
+      "angle": "gift-friendly fragrance accessories that feel more useful than another random candle",
+      "productHints": [
+        "gift",
+        "set",
+        "diffuser",
+        "warmer",
+        "candle"
+      ]
+    },
+    {
+      "slug": "best-candle-accessories-for-home",
+      "title": "Best Candle Accessories For Home",
+      "intent": "candle shelf finishing touches",
+      "angle": "accessories that make candles easier to maintain, display, and use neatly",
+      "productHints": [
+        "candle",
+        "accessory",
+        "tray",
+        "wick",
+        "snuffer"
+      ]
+    }
+  ],
+  "affiliateTag": "deno-sites-20",
+  "lastUpdated": "2026-06-26",
+  "productCount": 24,
+  "urls": [
+    "https://rmulkey.github.io/scentshelf/",
+    "https://rmulkey.github.io/scentshelf/top-7/",
+    "https://rmulkey.github.io/scentshelf/guides/home-fragrance-accessories-guide/",
+    "https://rmulkey.github.io/scentshelf/best/best-candle-warmer-lamp/",
+    "https://rmulkey.github.io/scentshelf/best/best-wax-melt-warmer/",
+    "https://rmulkey.github.io/scentshelf/best/best-reed-diffuser-set/",
+    "https://rmulkey.github.io/scentshelf/best/best-essential-oil-diffuser-for-bedroom/",
+    "https://rmulkey.github.io/scentshelf/best/best-home-fragrance-gift/",
+    "https://rmulkey.github.io/scentshelf/best/best-candle-accessories-for-home/",
+    "https://rmulkey.github.io/scentshelf/affiliate-disclosure/",
+    "https://rmulkey.github.io/scentshelf/editorial-policy/",
+    "https://rmulkey.github.io/scentshelf/contact/"
+  ],
+  "products": [
+    {
+      "asin": "B0CTJGJL2T",
+      "title": "GODONLIF Candle Warmer Lamp with Cycle Timer, Birthday Gifts for Women Mom Her, House Warming Gifts New Home Room Decor, W...",
+      "image": "https://m.media-amazon.com/images/I/810vcJJDrkL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CTJGJL2T?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DZFGTCLR",
+      "title": "Innqoo Candle Warmer Lamp with Timer, Dimmable Candle Warmer for Jar Candles, Height Adjustable Wax Melts Warmer, Birthday...",
+      "image": "https://m.media-amazon.com/images/I/71t96oyL+UL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DZFGTCLR?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FRLWC6X9",
+      "title": "Candle Warmer Lamp with Timer Dimmer, Birthday Gifts for Mom Women Friend Sister, House Warming Gifts, Wax Melt Warmer, Office Ap...",
+      "image": "https://m.media-amazon.com/images/I/71DK1D8roLL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0FRLWC6X9?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DT9QTQ4S",
+      "title": "CRMILL Candle Warmer Lamp Electric Timer - Candles Warming Light Height Adjustable Dimmable Warmers Flower Lamps No Flame ...",
+      "image": "https://m.media-amazon.com/images/I/71CWAp0NCzL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DT9QTQ4S?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CFLS7VHR",
+      "title": "Briever Dimmable Candle Warmer Lamp with Timer, Height Adjustable Electric Candle Wax Warmer, Christmas Birthday Gifts for...",
+      "image": "https://m.media-amazon.com/images/I/91jHfzKsO0L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CFLS7VHR?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CDRDK6MR",
+      "title": "seenlast Candle Warmer Lamp with Timer Dimmer Adjustable Height for New Home Bedroom,Mothers Day Gifts,Vintage Home Decor ...",
+      "image": "https://m.media-amazon.com/images/I/71lTyTayb4L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CDRDK6MR?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BWJRJYS7",
+      "title": "Marycele Candle Warmer Lamp with Timer & Dimmer - Mothers Day Gifts for Women Mom Her, Aesthetic Office Home Decor, Adjust...",
+      "image": "https://m.media-amazon.com/images/I/71p2KeF+u5L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0BWJRJYS7?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FKBD74L6",
+      "title": "Candle Warmer Lamp with Timer Dimmable, Lamp Candle Warmer for Jar Candles，Birthday Gifts for Women Mom, House Warming Gifts Vint...",
+      "image": "https://m.media-amazon.com/images/I/81AR2ofXz0L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0FKBD74L6?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CCYCBRSK",
+      "title": "Candle Warmer Lamp with 3 Bulbs, Adjustable Height Dimmable Candle Warmer with Timer, Candle Lamp with Charming Gift Box Ribbon,B...",
+      "image": "https://m.media-amazon.com/images/I/71wcW25KSkL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CCYCBRSK?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C2771TLS",
+      "title": "Modern Candle Warmer Lamp with Timer, Dimmable Candle Lamp Warmer, Mothers Day Birthday Gifts for Women Men, Black Candle Warmer,...",
+      "image": "https://m.media-amazon.com/images/I/71rv9mTQKNL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0C2771TLS?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FH1V264V",
+      "title": "Candle Warmer Lamp Adjustable Timer - Electric Flower Glass Candles Warmers Adjustable Height Dimmable Vintage Base Modern Wax Ca...",
+      "image": "https://m.media-amazon.com/images/I/71V0ki-daaL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0FH1V264V?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DKF6ZGBB",
+      "title": "Candeldo Candle Warmer Lamp with Timer: Black Candle Warming Lamp Height Adjustable Wax Melt Warmer Dimmable Modern Farmho...",
+      "image": "https://m.media-amazon.com/images/I/71oGoo-SA7L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DKF6ZGBB?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DCNZT2GT",
+      "title": "LISUNAR Electric Candle Warmer Lamp Black, Candle Lamp Warmer with Timer, Wax Warmer Lamp for Jar Candles, Adjustable Heig...",
+      "image": "https://m.media-amazon.com/images/I/61kwm1mg0tL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DCNZT2GT?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0D9QDKM59",
+      "title": "Candle Warmer Lamp with Timer, Modern Farmhouse Candle Warmer, Height Adjustable & Dimmable Electric Candle Warmer Lamp, Includes...",
+      "image": "https://m.media-amazon.com/images/I/614LaI1o2GL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0D9QDKM59?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DDX8MYKQ",
+      "title": "Hong-in Candle Warmer Lamp with Timer Dimmer,Christmas Birthday Gifts for Women Mom,House Warming Gifts New Home Room Deco...",
+      "image": "https://m.media-amazon.com/images/I/71b+TkyRnCL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DDX8MYKQ?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CQQLYD3W",
+      "title": "GODONLIF Candle Warmer Lamp with Timer Dimmable, Birthday Gifts for Women Mom, House Warming Gifts New Home Decor, Wax Mel...",
+      "image": "https://m.media-amazon.com/images/I/71IJt56lujL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CQQLYD3W?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0F5WQHQMM",
+      "title": "Candle Warmer Lamp with Timer Dimmable, Lamp Candle Warmer Birthday Gifts for Women, Black Adjustable Wax Melter Warmer for Jar C...",
+      "image": "https://m.media-amazon.com/images/I/61bqdD3w0SL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0F5WQHQMM?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CJRDJ8N6",
+      "title": "Candeldo Candle Warmer Lamp with Timer: Flower Gold Candle Lamps Height Adjustable Wax Melt House Warming Gifts New Home D...",
+      "image": "https://m.media-amazon.com/images/I/61NZIa2INBL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0CJRDJ8N6?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FKN1LQ53",
+      "title": "Candle Warmer Lamp with Timer Dimmable, Birthday Gifts for Women Mom, House Warming Gifts New Home Decor, Wax Melt Warmer for Jar...",
+      "image": "https://m.media-amazon.com/images/I/61AfvJIdaWL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0FKN1LQ53?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0GFPBVVLQ",
+      "title": "Skull Candle Warmer Lamp with Timer and Dimmer *Candles NOT Included – Black Gothic Candle Lamp Warmer w/Adjustable Height, 2 Lig...",
+      "image": "https://m.media-amazon.com/images/I/71JliJGWRmL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0GFPBVVLQ?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0GWDV1FL5",
+      "title": "Hong-in Candle Warmer Lamp with Timer Dimmer, Birthday Gifts for Women, House Warming Gifts for New Home, Vintage Room Dec...",
+      "image": "https://m.media-amazon.com/images/I/71-girXnCoL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0GWDV1FL5?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0GDJFSS9R",
+      "title": "Candle Warmer Lamp with Timer & Dimmer, Black Painted Wooden Base with Drawer, Black Metal Stand, Extra Bulb Included, Candle War...",
+      "image": "https://m.media-amazon.com/images/I/71J0TgKTQvL._AC_SL1500_.jpg",
+      "category": "Display",
+      "url": "https://www.amazon.com/dp/B0GDJFSS9R?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FP51DN7C",
+      "title": "Candle Warmer Lamp with Timer, Dimmable Candle Warmer for Home Decor, Birthday Gifts for Women Mom, Adjustable Height Wax Melt Wa...",
+      "image": "https://m.media-amazon.com/images/I/81KzFuvn81L._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0FP51DN7C?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DC6G3698",
+      "title": "Lukasa Candle Warmer Lamp, with Timer Dimmer Adjustable Height, Home Decor, Room Decor, Wax Melt Warmer for Candles, Gifts...",
+      "image": "https://m.media-amazon.com/images/I/71betXuX1bL._AC_SL1500_.jpg",
+      "category": "Lighting",
+      "url": "https://www.amazon.com/dp/B0DC6G3698?tag=deno-sites-20"
+    }
+  ]
+}
